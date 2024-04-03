@@ -5,12 +5,14 @@ en BUT INFORMATIQUE, le projet suivant nous a été confié.
 
 ## Contexte
 
-Les entreprises gérant les stocks de leurs articles doivent régulièrement vérifier et mettre à jour le stock
-des articles dans leur ERP. Des erreurs de stocks peuvent survenir suite à des bugs du logiciel, des vols ou
-des sorties de stock manuelles non saisies dans l’ERP.
-De ce fait, les entreprises doivent avoir des moyens rapides permettant de pointer et de réajuster les
-stocks. En plus de la gestion des stocks au jour le jour, une contrainte s’impose aux entreprises, le fait de
-devoir faire un inventaire annuel (pointage / saisie complète de tous les articles stockés).
+L’entreprise qui gère les vélos en libre-service sur la ville de Paris fait appel à nous afin de mieux gérer
+les stations et le parc de vélos.
+Ils souhaitent que nous mettions en place des outils permettant de visualiser des indicateurs pertinents
+qui leur permettront de prendre des décisions afin d’optimiser le réseau.
+Ces indicateurs ne sont pas donnés par le client, c’est à nous de les définir au vue des données que
+nous pourrions utiliser. Nous devons donc réfléchir à ce qui pourrait être amélioré et permettre à
+l’entreprise d’améliorer son service aux utilisateurs en se basant sur les indicateurs que notre solution
+lui fournira.
 
 ## Description du projet
 Nous devons mettre en place des outils d'aide à la décision à
