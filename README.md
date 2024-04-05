@@ -26,11 +26,11 @@ Divers livrables sont aussi à réaliser : manuels, analyse, jeux d'essais, ...
 ## Equipe 
   
 Anthony ENJALBERT
-- email : anthony.enjalbert@iut-rodez.fr
-- login GitHub : @anthoo21
-- rôle : Consultant
+- Email : anthony.enjalbert@iut-rodez.fr
+- Login GitHub : @anthoo21
+- Rôle : Consultant
   
 Mathys ALZURIA
-- email : mathys.alzuria@iut-rodez.fr
-- login GitHub : @MathysALZURIA
-- rôle : Consultant
+- Email : mathys.alzuria@iut-rodez.fr
+- Login GitHub : @MathysALZURIA
+- Rôle : Consultant
